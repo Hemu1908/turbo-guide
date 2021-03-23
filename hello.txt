@@ -1,3 +1,8 @@
 Hello All
+<<<<<<< HEAD
 How are you? What doing?
 Im developer2 who did the last change
+=======
+How are you? 
+Where are you from?
+>>>>>>> 2ec6ec2deceb78435e4c2d376be69c2542d9ca7d
